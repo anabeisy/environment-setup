@@ -1,0 +1,5 @@
+name: smart-helmet
+dependencies:
+  - python=3.7   # or 2.7
+  - pip:
+    - numpy==1.18.*
